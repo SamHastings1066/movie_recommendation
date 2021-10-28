@@ -1,12 +1,9 @@
 # Text Recommendation System with Python
 
-Explore different Machine Learning models on a practical case for recommendation via simple matching algorithm. 
+This repo contains a notebook - `recommendation_movie.ipynb` - comparing the performance of different machine learning models at making movie recommendations given an input text query.
 
-This repository contains a simple notebook and the data as toy example to understand how to use python an
-d machine learning to build text-based recommendation
+The movie database from which the models are selecting is contained in the the `data` folder.
 systems.
-
-Tutorial here: https://towardsdatascience.com/build-a-text-recommendation-system-with-python-e8b95d9f251c
 
 ## Model/ Library
 
